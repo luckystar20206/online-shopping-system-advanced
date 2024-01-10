@@ -16,9 +16,9 @@
 /*
  * Project: Bootstrap Notify = v3.1.5
  * Description: Turns standard Bootstrap alerts into "Growl-like" notifications.
- * Author: Mouse0270 aka Robert McIntosh
+ * Author: Luckystar20206 Kibria Rahman
  * License: MIT License
- * Website: https://github.com/mouse0270/bootstrap-growl
+ * Website: https://github.com/Luckystar20206/bootstrap-growl
  */
 
 /* global define:false, require: false, jQuery:false */
